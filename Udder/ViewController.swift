@@ -15,6 +15,9 @@ class ViewController: UIViewController {
 //        kukkutheme
     }
 
+    override func viewDidAppear(_ animated: Bool) {
+    }
+
 
 }
 
